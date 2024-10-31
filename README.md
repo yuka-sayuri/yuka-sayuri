@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+> README.md under construction...
+
 <!--
 **yuka-sayuri/yuka-sayuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
